@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlickScrumy", "SlickScrumy\SlickScrumy.csproj", "{E4A95090-3183-4F0F-B978-73F438FA53C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlickScrumy.Web", "SlickScrumy.Web\SlickScrumy.Web.csproj", "{25038918-2FFF-4BC3-912D-936ECFA1331F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A95090-3183-4F0F-B978-73F438FA53C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A95090-3183-4F0F-B978-73F438FA53C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A95090-3183-4F0F-B978-73F438FA53C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A95090-3183-4F0F-B978-73F438FA53C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25038918-2FFF-4BC3-912D-936ECFA1331F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25038918-2FFF-4BC3-912D-936ECFA1331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25038918-2FFF-4BC3-912D-936ECFA1331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25038918-2FFF-4BC3-912D-936ECFA1331F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
