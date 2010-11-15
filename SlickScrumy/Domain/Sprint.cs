@@ -4,6 +4,6 @@ namespace SlickScrumy.Domain
 {
     public class Sprint
     {
-        private IEnumerable<Story> Stories { get; set; }
+        public IEnumerable<Story> Stories { get; set; }
     }
 }

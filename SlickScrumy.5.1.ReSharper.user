@@ -3,35 +3,55 @@
     <string />
     <integer />
     <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
       <setting name="SolutionAnalysisEnabled">True</setting>
     </boolean>
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
       <File id="25038918-2FFF-4BC3-912D-936ECFA1331F/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="72" fromTop="4" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="156" fromTop="6" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="1088" fromTop="7" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="507" fromTop="15" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="1016" fromTop="11" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="204" fromTop="8" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="198" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginEventArgs.cs" caret="162" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="568" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml" caret="613" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="117" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="105" fromTop="4" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="600" fromTop="19" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1457" fromTop="40" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="946" fromTop="30" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="1062" fromTop="19" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="622" fromTop="22" />
     </RecentFiles>
     <RecentEdits>
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="1058" fromTop="16" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="53" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="0" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="73" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="156" fromTop="6" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="204" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="246" fromTop="8" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="324" fromTop="5" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="1093" fromTop="11" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="1199" fromTop="7" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="650" fromTop="14" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="230" fromTop="14" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="120" fromTop="7" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="507" fromTop="15" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="2158" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="891" fromTop="14" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="0" fromTop="0" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="294" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="729" fromTop="18" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginEventArgs.cs" caret="162" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml" caret="1202" fromTop="14" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml" caret="345" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="167" fromTop="7" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="643" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="394" fromTop="13" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml" caret="613" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="600" fromTop="19" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="838" fromTop="17" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="336" fromTop="11" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="597" fromTop="17" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1640" fromTop="38" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="167" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="116" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="105" fromTop="4" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1331" fromTop="34" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="1017" fromTop="31" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="979" fromTop="31" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="472" fromTop="18" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="754" fromTop="25" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1331" fromTop="34" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1457" fromTop="40" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="622" fromTop="22" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -47,33 +67,142 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="public" priority="0" />
+      <Item value="public" priority="4" />
       <Item value="TaskBoard`0" priority="0" />
-      <Item value="Story`0" priority="0" />
-      <Item value="override" priority="0" />
-      <Item value="new" priority="3" />
-      <Item value="if" priority="0" />
+      <Item value="Story`0" priority="1" />
+      <Item value="override" priority="2" />
+      <Item value="new" priority="14" />
+      <Item value="if" priority="2" />
       <Item value="TaskBoardView`0" priority="1" />
       <Item value="return" priority="1" />
-      <Item value="null" priority="1" />
+      <Item value="null" priority="3" />
       <Item value="TaskBoardService" priority="0" />
       <Item value="uxUsername" priority="0" />
       <Item value="uxPassword" priority="0" />
-      <Item value="Sprint`0" priority="1" />
+      <Item value="Sprint`0" priority="3" />
       <Item value="DataContext" priority="0" />
-      <Item value="sprint" priority="0" />
+      <Item value="sprint" priority="3" />
+      <Item value="string" priority="4" />
+      <Item value="prop" priority="3" />
+      <Item value="event" priority="1" />
+      <Item value="CheckAndDownloadUpdateCompletedEventHandler`0" priority="0" />
+      <Item value="EventHandler" priority="3" />
+      <Item value="LoginEventArgs`0" priority="0" />
+      <Item value="LoginRequested" priority="1" />
+      <Item value="this" priority="1" />
+      <Item value="LoginEventArgs" priority="0" />
+      <Item value="LoginForm`0" priority="0" />
+      <Item value="DefaultEvent" priority="0" />
+      <Item value="LayoutRoot" priority="4" />
+      <Item value="WebClient" priority="0" />
+      <Item value="Credentials" priority="1" />
+      <Item value="ICredentials`0" priority="0" />
+      <Item value="NetworkCredential`0" priority="0" />
+      <Item value="username" priority="2" />
+      <Item value="password" priority="1" />
+      <Item value="webClient" priority="1" />
+      <Item value="Uri" priority="0" />
+      <Item value="e" priority="5" />
+      <Item value="System" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="Debugger`0" priority="0" />
+      <Item value="FetchSprint`0" priority="0" />
+      <Item value="TaskBoardService`0" priority="0" />
+      <Item value="domain" priority="0" />
+      <Item value="HttpWebRequest`0" priority="0" />
+      <Item value="WebRequestCreator" priority="0" />
+      <Item value="UseDefaultCredentials" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="credential" priority="0" />
+      <Item value="taskBoardService" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="FetchEventHandler`0" priority="0" />
+      <Item value="EventArgs`0" priority="0" />
+      <Item value="FetchSprintEventArgs`0" priority="1" />
+      <Item value="taskBoardView" priority="0" />
+      <Item value="root" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="story" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="RowDefinition" priority="0" />
+      <Item value="TextBlock`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="Grid`0" priority="1" />
+      <Item value="textBlock" priority="1" />
+      <Item value="var" priority="0" />
+      <Item value="FetchCompleted" priority="1" />
+      <Item value="FetchSprintEventArgs" priority="0" />
+      <Item value="Sprint" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:SlickScrumy.Service.TaskBoardService">
-      <Item value="FetchSprint`0" priority="0" />
+      <Item value="FetchSprint`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
       <Item value="Text" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
-      <Item value="Children" priority="0" />
+      <Item value="Children" priority="2" />
+      <Item value="RowDefinitions" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.PasswordBox">
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadStringAsync`0" priority="0" />
+      <Item value="DownloadStringCompleted" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debugger">
+      <Item value="Break`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SlickScrumy.Views.LoginEventArgs">
+      <Item value="Username" priority="0" />
+      <Item value="Password" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="RegisterPrefix`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Browser.WebRequestCreator">
+      <Item value="ClientHttp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SlickScrumy.Views.TaskBoardView">
+      <Item value="DataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SlickScrumy.Service.FetchSprintEventArgs">
+      <Item value="Sprint" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.DownloadStringCompletedEventArgs">
+      <Item value="Result" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.Linq.XElement">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SlickScrumy.Domain.Sprint">
+      <Item value="Stories" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Linq.XElement">
+      <Item value="Elements`0" priority="0" />
+      <Item value="Element`0" priority="1" />
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RowDefinitionCollection">
       <Item value="Add`0" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SlickScrumy.Domain.Story">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Grid">
+      <Item value="SetColumn`0" priority="0" />
+      <Item value="SetRow`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
