@@ -34,7 +34,17 @@ namespace SlickScrumy.Service
             {
                 Stories =
                     from story in stories.Elements("story")
-                    select new Story {Title = story.Element("title").Value}
+                    select new Story
+                    {
+                        Title = story.Element("title").Value,
+                        Tasks =
+                            from task in story.Element("tasks").Elements("task")
+                            select new Task
+                            {
+                                Title = task.Element("title").Value,
+                                State = task.Element("state").Value
+                            }
+                    }
             };
 
             if (FetchCompleted != null)
