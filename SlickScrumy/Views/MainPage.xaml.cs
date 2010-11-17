@@ -1,36 +1,21 @@
-﻿using System;
-using System.Windows.Controls;
-using SlickScrumy.Service;
+﻿using System.Windows.Controls;
+using System.Windows.Navigation;
 
 namespace SlickScrumy.Views
 {
     public partial class MainPage : UserControl
     {
-        private TaskBoardView taskBoardView;
-
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void uxLogin_Click(object sender, System.Windows.RoutedEventArgs e)
+        // If an error occurs during navigation, show an error window
+        private void ContentFrame_NavigationFailed(object sender, NavigationFailedEventArgs e)
         {
-        }
-
-        private void LoginForm_LoginRequested(object sender, LoginEventArgs e)
-        {
-            LayoutRoot.Children.Clear();
-            taskBoardView = new TaskBoardView();
-            LayoutRoot.Children.Add(taskBoardView);
-
-            var taskBoardService = new TaskBoardService();
-            taskBoardService.FetchCompleted += OnServiceFetchCompleted;
-            taskBoardService.FetchSprint(e.Username, e.Password);
-        }
-
-        void OnServiceFetchCompleted(object sender, FetchSprintEventArgs e)
-        {
-            taskBoardView.SetSprint(e.Sprint);
+            e.Handled = true;
+            ChildWindow errorWin = new ChildWindow{Content = new TextBlock{Text = e.Exception.ToString()}};
+            errorWin.Show();
         }
     }
 }
