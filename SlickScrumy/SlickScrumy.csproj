@@ -80,6 +80,8 @@
     </Compile>
     <Compile Include="Domain\Task.cs" />
     <Compile Include="Service\LoginDetails.cs" />
+    <Compile Include="Utility\Command.cs" />
+    <Compile Include="ViewModels\LoginViewModel.cs" />
     <Compile Include="Views\LoginEventArgs.cs" />
     <Compile Include="Views\Login.xaml.cs">
       <DependentUpon>Login.xaml</DependentUpon>

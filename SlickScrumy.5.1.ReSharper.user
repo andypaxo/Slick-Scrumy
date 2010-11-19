@@ -11,50 +11,51 @@
     <RecentFiles>
       <File id="25038918-2FFF-4BC3-912D-936ECFA1331F/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginEventArgs.cs" caret="162" fromTop="6" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="568" fromTop="8" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml" caret="613" fromTop="5" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:LoginForm.xaml.cs" caret="600" fromTop="19" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="946" fromTop="30" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml" caret="1062" fromTop="19" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml.cs" caret="415" fromTop="15" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1475" fromTop="28" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="505" fromTop="18" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Task.cs" caret="277" fromTop="9" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="117" fromTop="6" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="719" fromTop="23" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml" caret="533" fromTop="11" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="0" fromTop="0" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml" caret="570" fromTop="10" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="838" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:LoginDetails.cs" caret="150" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="66" fromTop="2" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml.cs" caret="596" fromTop="20" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml" caret="1282" fromTop="22" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml.cs" caret="731" fromTop="22" />
     </RecentFiles>
     <RecentEdits>
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="2071" fromTop="38" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="230" fromTop="5" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Sprint.cs" caret="116" fromTop="6" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1762" fromTop="34" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="1017" fromTop="31" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="979" fromTop="31" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="624" fromTop="18" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="754" fromTop="25" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1888" fromTop="40" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml" caret="49" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml.cs" caret="0" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml.cs" caret="240" fromTop="11" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml.cs" caret="531" fromTop="25" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml.cs" caret="415" fromTop="15" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="1640" fromTop="27" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1692" fromTop="44" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="1148" fromTop="36" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="1457" fromTop="44" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="0" fromTop="0" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="1338" fromTop="46" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="620" fromTop="22" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="1475" fromTop="28" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="1049" fromTop="25" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoardView.xaml.cs" caret="859" fromTop="25" />
-      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="372" fromTop="14" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="795" fromTop="28" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="654" fromTop="23" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Story.cs" caret="505" fromTop="18" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Domain/f:Task.cs" caret="277" fromTop="9" />
       <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskStack.xaml" caret="533" fromTop="11" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="322" fromTop="4" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="1112" fromTop="16" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml.cs" caret="237" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml" caret="47" fromTop="0" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml" caret="431" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml" caret="714" fromTop="9" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="556" fromTop="34" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:TaskBoardService.cs" caret="0" fromTop="0" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Service/f:LoginDetails.cs" caret="150" fromTop="5" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml.cs" caret="246" fromTop="10" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml" caret="1111" fromTop="10" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml" caret="570" fromTop="10" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml.cs" caret="240" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml" caret="14" fromTop="0" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml.cs" caret="612" fromTop="18" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="156" fromTop="8" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="243" fromTop="24" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="243" fromTop="13" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:MainPage.xaml.cs" caret="66" fromTop="2" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:Login.xaml.cs" caret="596" fromTop="20" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml.cs" caret="441" fromTop="14" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml" caret="498" fromTop="6" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml" caret="884" fromTop="16" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml" caret="1282" fromTop="22" />
+      <File id="E4A95090-3183-4F0F-B978-73F438FA53C9/d:Views/f:TaskBoard.xaml.cs" caret="731" fromTop="22" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -73,20 +74,20 @@
       <Item value="public" priority="4" />
       <Item value="TaskBoard`0" priority="0" />
       <Item value="Story`0" priority="1" />
-      <Item value="override" priority="2" />
-      <Item value="new" priority="19" />
+      <Item value="override" priority="3" />
+      <Item value="new" priority="21" />
       <Item value="if" priority="2" />
       <Item value="TaskBoardView`0" priority="3" />
       <Item value="return" priority="2" />
       <Item value="null" priority="3" />
       <Item value="TaskBoardService" priority="0" />
-      <Item value="uxUsername" priority="0" />
-      <Item value="uxPassword" priority="0" />
+      <Item value="uxUsername" priority="1" />
+      <Item value="uxPassword" priority="1" />
       <Item value="Sprint`0" priority="3" />
       <Item value="DataContext" priority="1" />
       <Item value="sprint" priority="3" />
-      <Item value="string" priority="6" />
-      <Item value="prop" priority="5" />
+      <Item value="string" priority="9" />
+      <Item value="prop" priority="7" />
       <Item value="event" priority="1" />
       <Item value="CheckAndDownloadUpdateCompletedEventHandler`0" priority="0" />
       <Item value="EventHandler" priority="3" />
@@ -104,8 +105,8 @@
       <Item value="username" priority="2" />
       <Item value="password" priority="1" />
       <Item value="webClient" priority="1" />
-      <Item value="Uri" priority="0" />
-      <Item value="e" priority="5" />
+      <Item value="Uri" priority="1" />
+      <Item value="e" priority="7" />
       <Item value="System" priority="0" />
       <Item value="Diagnostics" priority="0" />
       <Item value="Debugger`0" priority="0" />
@@ -131,7 +132,7 @@
       <Item value="foreach" priority="0" />
       <Item value="RowDefinition" priority="0" />
       <Item value="TextBlock`0" priority="0" />
-      <Item value="Text" priority="0" />
+      <Item value="Text" priority="1" />
       <Item value="Grid`0" priority="1" />
       <Item value="textBlock" priority="3" />
       <Item value="var" priority="0" />
@@ -159,12 +160,25 @@
       <Item value="AddControl`0" priority="1" />
       <Item value="TextWrapping" priority="0" />
       <Item value="TextWrapping`0" priority="0" />
+      <Item value="Page" priority="0" />
+      <Item value="ChildWindow`0" priority="0" />
+      <Item value="Content" priority="0" />
+      <Item value="TextBlock" priority="0" />
+      <Item value="sim" priority="0" />
+      <Item value="LoginDetails" priority="0" />
+      <Item value="LoginDetails`0" priority="2" />
+      <Item value="NavigationService" priority="0" />
+      <Item value="Uri`0" priority="0" />
+      <Item value="SetSprint`0" priority="0" />
+      <Item value="Relative" priority="0" />
+      <Item value="progressBar" priority="0" />
+      <Item value="Visibility`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:SlickScrumy.Service.TaskBoardService">
       <Item value="FetchSprint`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
-      <Item value="Text" priority="1" />
+      <Item value="Text" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
       <Item value="Children" priority="3" />
@@ -175,7 +189,8 @@
       <Item value="Clear`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Windows.Controls.PasswordBox">
-      <Item value="Password" priority="0" />
+      <Item value="Password" priority="1" />
+      <Item value="TextInput" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.WebClient">
       <Item value="DownloadStringAsync`0" priority="0" />
@@ -201,7 +216,7 @@
       <Item value="DataContext" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:SlickScrumy.Service.FetchSprintEventArgs">
-      <Item value="Sprint" priority="0" />
+      <Item value="Sprint" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Net.DownloadStringCompletedEventArgs">
       <Item value="Result" priority="1" />
@@ -240,6 +255,25 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Windows.TextWrapping">
       <Item value="Wrap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationFailedEventArgs">
+      <Item value="Exception" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@SlickScrumy.Service.LoginDetails">
+      <Item value="User" priority="1" />
+      <Item value="Password" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationService">
+      <Item value="Navigate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ProgressBar">
+      <Item value="Visibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Visibility">
+      <Item value="Collapsed" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

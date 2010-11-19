@@ -7,11 +7,19 @@
     mc:Ignorable="d"
     d:DesignHeight="134" d:DesignWidth="273">
     
+    <Controls:Page.Resources>
+        <Style x:Key="style" TargetType="FrameworkElement">
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="Height" Value="23"/>
+        </Style>
+    </Controls:Page.Resources>
+    
     <Grid x:Name="LayoutRoot" Background="White">
-        <TextBox Height="23" HorizontalAlignment="Left" Margin="135,12,0,0" Name="uxUsername" VerticalAlignment="Top" Width="120" />
-        <PasswordBox Height="23" HorizontalAlignment="Left" Margin="135,46,0,0" Name="uxPassword" VerticalAlignment="Top" Width="120" />
-        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="textBlock1" Text="Username" VerticalAlignment="Top" />
-        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,46,0,0" Name="textBlock2" Text="Password" VerticalAlignment="Top" />
-        <Button Click="uxLogin_Click" Content="Log In" Height="23" HorizontalAlignment="Left" Margin="180,83,0,0" Name="uxLogin" VerticalAlignment="Top" Width="75" />
+        <TextBox Style="{StaticResource style}" Margin="135,12,0,0" Width="120" Text="{Binding Username, Mode=TwoWay}" />
+        <PasswordBox Style="{StaticResource style}" Margin="135,46,0,0" Width="120" Password="{Binding Password, Mode=TwoWay}" />
+        <TextBlock Style="{StaticResource style}" Margin="12,12,0,0" Name="textBlock1" Text="Username" />
+        <TextBlock Style="{StaticResource style}" Margin="12,46,0,0" Name="textBlock2" Text="Password" />
+        <Button Style="{StaticResource style}" Content="Log In" Width="75" Margin="180,83,0,0" Command="{Binding Login}" />
     </Grid>
 </Controls:Page>

@@ -25,7 +25,7 @@ namespace SlickScrumy.Views
 
         private void SetSprint(Sprint sprint)
         {
-            progressBar.Visibility = System.Windows.Visibility.Collapsed;
+            progressBar.Visibility = Visibility.Collapsed;
 
             var columns = new List<List<IEnumerable<Task>>>();
             columns.AddRange(Enumerable.Repeat(new List<IEnumerable<Task>>(), 4));
@@ -41,7 +41,7 @@ namespace SlickScrumy.Views
             }
         }
 
-        private int currentCol = 0;
+        private int currentCol;
         void AddRow()
         {
             currentCol = 0;

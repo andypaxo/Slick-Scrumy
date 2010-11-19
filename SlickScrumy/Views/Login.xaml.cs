@@ -1,23 +1,21 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Windows;
-using System.Windows.Controls;
-using SlickScrumy.Service;
+using SlickScrumy.ViewModels;
 
 namespace SlickScrumy.Views
 {
-    [DefaultEvent("LoginRequested")]
-    public partial class Login : Page
+    public partial class Login
     {
+        private readonly LoginViewModel viewModel = new LoginViewModel();
+
         public Login()
         {
             InitializeComponent();
+            DataContext = viewModel;
+            viewModel.LoginRequested += OnLoginRequested;
         }
 
-        private void uxLogin_Click(object sender, RoutedEventArgs e)
+        void OnLoginRequested(object sender, EventArgs e)
         {
-            LoginDetails.User = uxUsername.Text;
-            LoginDetails.Password = uxPassword.Password;
             NavigationService.Navigate(new Uri("/TaskBoard", UriKind.Relative));
         }
     }
